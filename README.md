@@ -1,4 +1,4 @@
-### Python CRUD Application for Inventory Warehouse Stock Management
+# Python CRUD Application for Inventory Warehouse Stock Management
 
 A comprehensive Python application for managing inventory warehouse stock data with Create, Read, Update, and Delete (CRUD) operations.
 
