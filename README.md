@@ -54,8 +54,8 @@ This application is designed for inventory administrators in office supply store
 
 2. **Installation:**
     ```bash
-    git clone [https://github.com/](https://github.com/)<your-username>/python-inventory-crud.git
-    cd python-inventory-crud
+    git clone [https://github.com/](https://github.com/)AldhiNF/Python_CRUD_Stok_Gudang.git
+    cd Python_CRUD_Stok_Gudang
     pip install -r requirements.txt
     ```
 
